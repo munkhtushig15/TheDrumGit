@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+}
+#container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#toDoListsContainer {
+    width: 30%;
+    height: 60%;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2%;
+}
+#listMaker {
+    width: 90%;
+    height: 20%;
+    border-radius: 20px;
+    border: 1px solid gainsboro;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+}
+#lists {
+    width: 90%;
+    height: 70%;
+    border-radius: 20px;
+    border: 1px solid gainsboro;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+}
