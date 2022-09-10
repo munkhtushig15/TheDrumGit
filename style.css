@@ -3,12 +3,14 @@
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 .container {
     width: 100vw;
     height: 100vh;
     background-color: gainsboro;
     background-image: url("./images/drums-live-music-stage-performance-space.jpeg");
 }
+
 #tom1 {
     position: absolute;
     top: 40%;
@@ -22,6 +24,7 @@
     font-size: 30px;
     font-weight: 700;
 }
+
 #tom2 {
     border-radius: 20px;
     position: absolute;
@@ -35,6 +38,7 @@
     font-size: 30px;
     font-weight: 700;
 }
+
 #tom3 {
     position: absolute;
     border-radius: 20px;
@@ -48,6 +52,7 @@
     font-size: 30px;
     font-weight: 700;
 }
+
 #tom4 {
     position: absolute;
     border-radius: 20px;
@@ -61,6 +66,7 @@
     font-size: 30px;
     font-weight: 700;
 }
+
 #crash {
     position: absolute;
     border-radius: 20px;
@@ -74,6 +80,7 @@
     font-size: 30px;
     font-weight: 700;
 }
+
 #kick {
     position: absolute;
     border-radius: 20px;
@@ -87,6 +94,7 @@
     font-size: 30px;
     font-weight: 700;
 }
+
 #snare {
     position: absolute;
     border-radius: 20px;
@@ -100,4 +108,3 @@
     font-size: 30px;
     font-weight: 700;
 }
-
