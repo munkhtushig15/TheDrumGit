@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: gainsboro;
+    background-image: url("./images/drums-live-music-stage-performance-space.jpeg");
+}
+#tom1 {
+    position: absolute;
+    top: 40%;
+    left: 6%;
+    width: 160px;
+    height: 160px;
+    background-image: url("./images/tom1.png");
+    border: 1px brown solid;
+    border-radius: 20px;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+#tom2 {
+    border-radius: 20px;
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    width: 160px;
+    height: 160px;
+    background-image: url("./images/tom2.png");
+    border: 1px brown solid;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+#tom3 {
+    position: absolute;
+    border-radius: 20px;
+    top: 55%;
+    left: 50%;
+    width: 160px;
+    height: 160px;
+    background-image: url("./images/tom3.png");
+    border: 1px brown solid;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+#tom4 {
+    position: absolute;
+    border-radius: 20px;
+    top: 55%;
+    left: 35%;
+    width: 160px;
+    height: 160px;
+    background-image: url("./images/tom4.png");
+    border: 1px brown solid;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+#crash {
+    position: absolute;
+    border-radius: 20px;
+    top: 10%;
+    left: 60%;
+    width: 160px;
+    height: 160px;
+    background-image: url("./images/crash.png");
+    border: 1px brown solid;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+#kick {
+    position: absolute;
+    border-radius: 20px;
+    top: 70%;
+    left: 20%;
+    width: 160px;
+    height: 160px;
+    background-image: url("./images/kick.png");
+    border: 1px brown solid;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+#snare {
+    position: absolute;
+    border-radius: 20px;
+    top: 70%;
+    right: 20%;
+    width: 160px;
+    height: 160px;
+    background-image: url("./images/snare.png");
+    border: 1px brown solid;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+
