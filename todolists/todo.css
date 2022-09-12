@@ -27,11 +27,10 @@ body {
 }
 #toDoLists {
     width: 100%;
-    height: fit-content;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
+    height: 80%;
+    /* display: flex;
+    flex-direction: column; */
+    overflow: scroll;
 }
 #srch {
     padding: 5px;
@@ -65,7 +64,7 @@ body {
 }
 #taskname {
     width: 82%;
-    height: 40%;
+    height: fit-content;
     font-size: 20px;
     color: cadetblue;
     background-color: #fff;
